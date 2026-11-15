@@ -1,5 +1,6 @@
 # Bike Sales – Microsoft Excel Data Analytics Project
 An end-to-end Microsoft Excel data analytics project featuring data cleaning, pivot tables, and an interactive Bike Sales Dashboard to uncover customer demographic trends and purchasing behavior.
+
 Tools & Technologies
 
 Microsoft Excel: Data analysis and dashboard development.
